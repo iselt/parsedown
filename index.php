@@ -1,6 +1,6 @@
 <?php
 
-include './parsedown/Parsedown.php';
+include 'Parsedown.php';
 
 function md2html($title, $file)
 {
